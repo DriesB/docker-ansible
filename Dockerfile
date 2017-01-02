@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Justin Menga <justin.menga@gmail.com>
+MAINTAINER Sorakurai <dries_boone@hotmail.be>
 
 # Prevent dpkg errors
 ENV TERM=xterm-256color
